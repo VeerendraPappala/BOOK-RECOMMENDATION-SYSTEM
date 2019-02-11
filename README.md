@@ -11,4 +11,7 @@ Book-Crossings is a book ratings dataset compiled by Cai-Nicolas Ziegler. It con
 The data consists of three tables: ratings, books info, and users info. 
  Data can be downloaded from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
  
+ ###  Everything was coded in Google Colab, because of its GPU. I uploaded the dataset to Google Drive, so you can download it directly. Everything you need to recreate this project is on the jupyter notebook.
+
+
  
